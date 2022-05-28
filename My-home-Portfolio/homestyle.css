@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+marquee{
+    background-color: pink;
+    text-align: center;
+    font-size: 100px;
+    color: red;
+    position: relative;
+    overflow: hidden;
+}
+table{
+    display: block;
+    margin: 0px auto;
+}
+.textc:nth-child(n) input{
+    text-align: center;
+}
+.name{
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+    position: absolute;
+}
+.ok{
+    /* text-align: center; */
+    width: 50%;
+}
